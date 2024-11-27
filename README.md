@@ -15,6 +15,7 @@ Resources: A curated list of books, tools, and links that have helped me grow in
 Challenges: Solutions to various CTF challenges I’ve tackled, demonstrating my problem-solving abilities.
   MY MISSION
 To explore, understand, and secure the ever-evolving digital landscape. By building a solid foundation in cybersecurity, I aim to contribute to a safer and more resilient cyber world.
+
   SKILLS DEMONSTRATED 
 This portfolio covers a wide range of topics and demonstrates skills including:
 Penetration Testing: Reconnaissance, vulnerability assessment, and exploitation.
@@ -33,3 +34,7 @@ Tools Proficiency: Hands-on experience with tools like Wireshark, Metasploit, Nm
 Eric27-labcyber/Eric27-labcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Website_Scanner-https___google-gruyere.appspot.com_start.-20241122-0826.pdf](https://github.com/user-attachments/files/17928862/Website_Scanner-https___google-gruyere.appspot.com_start.-20241122-0826.pdf)
+[pen test doc.pdf](https://github.com/user-attachments/files/17928853/pen.test.doc.pdf)
+
+
