@@ -29,9 +29,6 @@ Tools Proficiency: Hands-on experience with tools like Wireshark, Metasploit, Nm
 - 📫 onyeadoreric@yahoo.com
 - 😄 510-693-6415
 - 
-Eric27-labcyber/Eric27-labcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [Website_Scanner-https___google-gruyere.appspot.com_start.-20241122-0826.pdf](https://github.com/user-attachments/files/17928862/Website_Scanner-https___google-gruyere.appspot.com_start.-20241122-0826.pdf)
 [pen test doc.pdf](https://github.com/user-attachments/files/17928853/pen.test.doc.pdf)
 
