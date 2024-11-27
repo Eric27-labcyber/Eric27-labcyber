@@ -24,13 +24,10 @@ Network Security: Configuring and analyzing firewalls, IDS/IPS, and network traf
 Secure Coding: Identifying and mitigating vulnerabilities in codebases.
 Tools Proficiency: Hands-on experience with tools like Wireshark, Metasploit, Nmap, and Burp Suite.
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
+- 🌱 I'm always eager to connect with follow learners, professionals, and mentors in the cybersecurity community. feel free to reacxh out to me! 
+- 💞️ https://www.linkedin.com/in/onyeador-eric-4ba74ba2
+- 📫 onyeadoreric@yahoo.com
+- 😄 510-693-6415
 Eric27-labcyber/Eric27-labcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
