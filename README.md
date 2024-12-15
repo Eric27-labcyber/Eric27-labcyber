@@ -1,3 +1,8 @@
+![capture_241205_170523 004](https://github.com/user-attachments/assets/b6319120-a937-4966-b41e-892ea494b8b7)
+![capture_241205_170812 007](https://github.com/user-attachments/assets/ad211e9e-c9db-4dbb-a5b3-9f659b454db5)
+![capture_241205_170523 004](https://github.com/user-attachments/assets/8cf35373-cd73-4214-9457-a1dcc2218cbd)
+![capture_241205_170440 003](https://github.com/user-attachments/assets/3a09b9d9-8859-4c4e-9dab-b6c67c6ae813)
+![0001](https://github.com/user-attachments/assets/92fa5951-bacf-408f-861c-03c6808bc670)
 CYBERSECURITY PORFOLIO- BY
 ERIC ONYEADOR
 ABOUT ME
@@ -27,7 +32,10 @@ Tools Proficiency: Hands-on experience with tools like Wireshark, Metasploit, Nm
 - 🌱 I'm always eager to connect with follow learners, professionals, and mentors in the cybersecurity community. feel free to reacxh out to me! 
 - 💞️ https://www.linkedin.com/in/onyeador-eric-4ba74ba2
 - 📫 onyeadoreric@yahoo.com
-- 😄 510-693-6415
+- 😄 510-693-6415[PenetrationTesting_ThreatHunting_andCryptography_Badge20241215-26-s8ftzv.pdf](https://github.com/user-attachments/files/18138595/PenetrationTesting_ThreatHunting_andCryptography_Badge20241215-26-s8ftzv.pdf)
+![computer-hardware-basics](https://github.com/user-attachments/assets/dbc0b9d1-1bc8-44f5-96bd-cca6e9a8b6d9)
+![operating-systems-basics](https://github.com/user-attachments/assets/c290c5ea-3dcf-42f2-914a-35da637465fc)
+
 - 
 [Website_Scanner-https___google-gruyere.appspot.com_start.-20241122-0826.pdf](https://github.com/user-attachments/files/17928862/Website_Scanner-https___google-gruyere.appspot.com_start.-20241122-0826.pdf)
 [pen test doc.pdf](https://github.com/user-attachments/files/17928853/pen.test.doc.pdf)
