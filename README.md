@@ -32,7 +32,8 @@ Tools Proficiency: Hands-on experience with tools like Wireshark, Metasploit, Nm
 - 🌱 I'm always eager to connect with follow learners, professionals, and mentors in the cybersecurity community. feel free to reacxh out to me! 
 - 💞️ https://www.linkedin.com/in/onyeador-eric-4ba74ba2
 - 📫 onyeadoreric@yahoo.com
-- 😄 510-693-6415[PenetrationTesting_ThreatHunting_andCryptography_Badge20241215-26-s8ftzv.pdf](https://github.com/user-attachments/files/18138595/PenetrationTesting_ThreatHunting_andCryptography_Badge20241215-26-s8ftzv.pdf)
+- 😄 510-693-6415
+- [PenetrationTesting_ThreatHunting_andCryptography_Badge20241215-26-s8ftzv.pdf](https://github.com/user-attachments/files/18138595/PenetrationTesting_ThreatHunting_andCryptography_Badge20241215-26-s8ftzv.pdf)
 ![computer-hardware-basics](https://github.com/user-attachments/assets/dbc0b9d1-1bc8-44f5-96bd-cca6e9a8b6d9)
 ![operating-systems-basics](https://github.com/user-attachments/assets/c290c5ea-3dcf-42f2-914a-35da637465fc)
 
