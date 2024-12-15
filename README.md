@@ -1,9 +1,4 @@
-ENCRYPTION AND DECRYPTION HANDS ON LABS 
-![capture_241205_170523 004](https://github.com/user-attachments/assets/b6319120-a937-4966-b41e-892ea494b8b7)
-![capture_241205_170812 007](https://github.com/user-attachments/assets/ad211e9e-c9db-4dbb-a5b3-9f659b454db5)
-![capture_241205_170523 004](https://github.com/user-attachments/assets/8cf35373-cd73-4214-9457-a1dcc2218cbd)
-![capture_241205_170440 003](https://github.com/user-attachments/assets/3a09b9d9-8859-4c4e-9dab-b6c67c6ae813)
-![0001](https://github.com/user-attachments/assets/92fa5951-bacf-408f-861c-03c6808bc670)
+
 CYBERSECURITY PORFOLIO- BY
 ERIC ONYEADOR
 ABOUT ME
@@ -21,7 +16,12 @@ Resources: A curated list of books, tools, and links that have helped me grow in
 Challenges: Solutions to various CTF challenges I’ve tackled, demonstrating my problem-solving abilities.
   MY MISSION
 To explore, understand, and secure the ever-evolving digital landscape. By building a solid foundation in cybersecurity, I aim to contribute to a safer and more resilient cyber world.
-
+ENCRYPTION AND DECRYPTION HANDS ON LABS 
+![capture_241205_170523 004](https://github.com/user-attachments/assets/b6319120-a937-4966-b41e-892ea494b8b7)
+![capture_241205_170812 007](https://github.com/user-attachments/assets/ad211e9e-c9db-4dbb-a5b3-9f659b454db5)
+![capture_241205_170523 004](https://github.com/user-attachments/assets/8cf35373-cd73-4214-9457-a1dcc2218cbd)
+![capture_241205_170440 003](https://github.com/user-attachments/assets/3a09b9d9-8859-4c4e-9dab-b6c67c6ae813)
+![0001](https://github.com/user-attachments/assets/92fa5951-bacf-408f-861c-03c6808bc670)
   SKILLS DEMONSTRATED 
 This portfolio covers a wide range of topics and demonstrates skills including:
 Penetration Testing: Reconnaissance, vulnerability assessment, and exploitation.
